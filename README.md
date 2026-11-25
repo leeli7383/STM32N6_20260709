@@ -73,7 +73,7 @@ THIRD_PARTY_NOTICES.md   原始第三方版权说明与使用边界
 
 ## 验证与恢复完整工程
 
-使用 Python 3 运行：
+使用 Python 3.9 或更新版本运行：
 
 ```powershell
 python tools/verify_snapshot.py
