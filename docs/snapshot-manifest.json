@@ -1,0 +1,302 @@
+{
+  "snapshot_date": "2026-11-25",
+  "source_archive_date": "2026-07-09",
+  "archive_md5": "6DE7CA617F9BC158A6A70D42EF830B4F",
+  "files": [
+    {
+      "path": "test/Appli/Core/Inc/app.h",
+      "bytes": 930,
+      "sha256": "56bfce5fd73e0087cc5074705f24e36bf42a2923d6bbee96899c5d58b58eff6a"
+    },
+    {
+      "path": "test/Appli/Core/Inc/app_bqueue.h",
+      "bytes": 1389,
+      "sha256": "2458c773e9368058d610ccb22e6484047892ae995399e3bc733db105fcd3b8dd"
+    },
+    {
+      "path": "test/Appli/Core/Inc/app_camera.h",
+      "bytes": 1383,
+      "sha256": "5a2917898342f812649859b7da54df3612ebc7bc768445a7c8e7a58444040af8"
+    },
+    {
+      "path": "test/Appli/Core/Inc/app_config.h",
+      "bytes": 1832,
+      "sha256": "5ef81de08ad70d411dc379608f69bc0ba2a3b8f13831d9c0fae56e8069c84a5e"
+    },
+    {
+      "path": "test/Appli/Core/Inc/app_cpuload.h",
+      "bytes": 1386,
+      "sha256": "0944b275d5ef1c693f25b075327f4c77aae931a6e1ba065f0d5000053035f67b"
+    },
+    {
+      "path": "test/Appli/Core/Inc/app_lcd.h",
+      "bytes": 1401,
+      "sha256": "8369054379030a7d711d2718c0c3725a9ecad9895301bd253f9772d69a77e5e1"
+    },
+    {
+      "path": "test/Appli/Core/Inc/app_postprocess.h",
+      "bytes": 2982,
+      "sha256": "d92bc30e0d7fa9cdfcb5aebd11dd53e6b7182ded914c0371fdbfcc7c62f34dff"
+    },
+    {
+      "path": "test/Appli/Core/Inc/app_utils.h",
+      "bytes": 1173,
+      "sha256": "02fc7184c47180462cc2afa00c42277dbe2b7b3f3fdeef56ee9d34dbf1d73a71"
+    },
+    {
+      "path": "test/Appli/Core/Inc/ld.h",
+      "bytes": 1134,
+      "sha256": "231cfcf9a45fb236739e7fd5eea2c84abed1a3d1cabe41b3542a4df4c057af0a"
+    },
+    {
+      "path": "test/Appli/Core/Inc/main.h",
+      "bytes": 2688,
+      "sha256": "637c73e008a65afddf188e9d28cd49c622f57a335342da1d52e0f7fab9f2d3c3"
+    },
+    {
+      "path": "test/Appli/Core/Inc/partition_stm32n647xx.h",
+      "bytes": 24747,
+      "sha256": "23229e6b8c7e78baf38aba34ed233e9c6f7353d2521940b34cff3cac24f27149"
+    },
+    {
+      "path": "test/Appli/Core/Inc/pca9685.h",
+      "bytes": 926,
+      "sha256": "84b8ebfb33c514f0167bf20b6f81c6845b69fb3563a28245044fd1a6a127989b"
+    },
+    {
+      "path": "test/Appli/Core/Inc/postprocess_conf.h",
+      "bytes": 1330,
+      "sha256": "331df97ca828bacde87ecd6ae7b84076afd93c9555b028f5c698e51aacea1d8d"
+    },
+    {
+      "path": "test/Appli/Core/Inc/reject_servo.h",
+      "bytes": 547,
+      "sha256": "700012b214f7dcf25a59247caf91e20371a08a079b9db7f1f5c1205aae1c36ff"
+    },
+    {
+      "path": "test/Appli/Core/Inc/stm32_lcd_ex.h",
+      "bytes": 1300,
+      "sha256": "c9efacf7eb7b46e11a96a80376705f20d4b958742b38bb859e8bdbf31e54a6e0"
+    },
+    {
+      "path": "test/Appli/Core/Inc/stm32n6xx_hal_conf.h",
+      "bytes": 18653,
+      "sha256": "24b1a1195e8080ea5b2aa3f4e4110c8bf9e7e75c7830013eb32a7853179c3499"
+    },
+    {
+      "path": "test/Appli/Core/Inc/stm32n6xx_it.h",
+      "bytes": 1934,
+      "sha256": "ce960b58d9a6478d4b83ae142bb46e3f9e3d13028ade903a9192044bcef32a77"
+    },
+    {
+      "path": "test/Appli/Core/Src/app.c",
+      "bytes": 18925,
+      "sha256": "6370e9ab6533e48c6663638ad4306022a669dbd259e49f9e5f611d432b3d2e99"
+    },
+    {
+      "path": "test/Appli/Core/Src/app_bqueue.c",
+      "bytes": 2051,
+      "sha256": "c0abdfc9421f8b1d032f66ec01dde762d046602c03ee3ffa3443f42d9a6217d3"
+    },
+    {
+      "path": "test/Appli/Core/Src/app_camera.c",
+      "bytes": 7065,
+      "sha256": "5dbfaeb315c33e3c167cb741bb337db1628e0838e54d0182183eab6c9ef0b417"
+    },
+    {
+      "path": "test/Appli/Core/Src/app_cpuload.c",
+      "bytes": 2562,
+      "sha256": "2fa72ecaf5e5bcd1945e5190af706b06e880bff827ca3fa547a4e3b93645e3b8"
+    },
+    {
+      "path": "test/Appli/Core/Src/app_lcd.c",
+      "bytes": 5438,
+      "sha256": "52206d349862ea413515e41521506ad94aaa6c9df85a8ff8b81c2a559bbbaf12"
+    },
+    {
+      "path": "test/Appli/Core/Src/app_postprocess.c",
+      "bytes": 15629,
+      "sha256": "ce2b97ca69ea54c44dccb2244f1f6647797bc2bdf5d3961d6fe5ef7f3d7e6dbb"
+    },
+    {
+      "path": "test/Appli/Core/Src/ld.c",
+      "bytes": 1242,
+      "sha256": "a26383df040df6ac206c449a219f157b5c22d764c4e5730c90b249ded3ec1df2"
+    },
+    {
+      "path": "test/Appli/Core/Src/main.c",
+      "bytes": 28287,
+      "sha256": "75c17e2fe215883afbc7ac772e2b155fb3306293396832465405ec04c28bf703"
+    },
+    {
+      "path": "test/Appli/Core/Src/pca9685.c",
+      "bytes": 6031,
+      "sha256": "0c97ec85836a98738544e87c408f71ef62c7de2ade4ae854cf345382d100fce0"
+    },
+    {
+      "path": "test/Appli/Core/Src/pd_anchors.c",
+      "bytes": 51076,
+      "sha256": "2b895db6fc85a7942b2554034452ef23d069ac1f21259014a7b96f5ee5a680e1"
+    },
+    {
+      "path": "test/Appli/Core/Src/reject_servo.c",
+      "bytes": 5995,
+      "sha256": "137a5e58216b7df5167a45c29c128b71788dc52b79e97e41f1e5050d40defad5"
+    },
+    {
+      "path": "test/Appli/Core/Src/secure_nsc.c",
+      "bytes": 2559,
+      "sha256": "267e6ff439f5aa40b933dbc41ab69b293c9b895c3c5eb069265a938c56b5be15"
+    },
+    {
+      "path": "test/Appli/Core/Src/stm32_lcd_ex.c",
+      "bytes": 1672,
+      "sha256": "99c273654a2325acb62bcfd503a53fcefeb74a7cd87cf045ba28fa73de039b25"
+    },
+    {
+      "path": "test/Appli/Core/Src/stm32n6xx_hal_msp.c",
+      "bytes": 21555,
+      "sha256": "9ef30dc9eab36e20ab7a6a87a7d72f143fc3b70668beaebf3cdc1b6a709ef812"
+    },
+    {
+      "path": "test/Appli/Core/Src/stm32n6xx_hal_timebase_threadx.c",
+      "bytes": 1099,
+      "sha256": "292cd866ecaad03589a710bb4151645a75ef97ffd332066d95b0278a1b3b0a1f"
+    },
+    {
+      "path": "test/Appli/Core/Src/stm32n6xx_it.c",
+      "bytes": 5598,
+      "sha256": "ce3cdaa34d25c31a434e6c580aec7db981bf4d89a74267f5210a1257156f4361"
+    },
+    {
+      "path": "test/Appli/Core/Src/system_stm32n6xx_s.c",
+      "bytes": 16873,
+      "sha256": "19ea27baa1f4e790733adac9714a26e63d02d6a3bb44b0122e558b713953e2d0"
+    },
+    {
+      "path": "test/Appli/STM32_MW_CAMERA/cmw_camera_conf.h",
+      "bytes": 930,
+      "sha256": "31f1870c0661e2d79a79febd776f6f3388eb544d97e7b7a009c8ca919656ab48"
+    },
+    {
+      "path": "test/Appli/STM32_MW_CAMERA/cmw_io.h",
+      "bytes": 2054,
+      "sha256": "6cd5693f91a4ac9c0ef6a081bd4b43f417b9d5e0f422c75d4e6e0323be57e3f9"
+    },
+    {
+      "path": "test/Appli/STM32_MW_ISP/isp_conf.h",
+      "bytes": 895,
+      "sha256": "a84fbf46374c70615c61b566bcfab3fabcd5b7472003ecaab8b02e3431c18cd0"
+    },
+    {
+      "path": "test/Appli/STM32_MW_ISP/isp_param_conf.h",
+      "bytes": 3626,
+      "sha256": "3152da0ceaec104bdc3d7383fa5c107955d148024e99fe71588aacad0d0e5a22"
+    },
+    {
+      "path": "test/Appli/ThreadX/App/tx_initialize_low_level.S",
+      "bytes": 10773,
+      "sha256": "22777c46e7c695b1fccde445d2fd54f1f0ef1d99d268c346bf04f517d6ec0b8d"
+    },
+    {
+      "path": "test/Appli/ThreadX/App/tx_user.h",
+      "bytes": 1006,
+      "sha256": "136301037c3d2653020d13a1a861ce8bc08724b831fd4c04ef3f7f7208b2950d"
+    },
+    {
+      "path": "test/Binary/appli.hex",
+      "bytes": 1377170,
+      "sha256": "7308b9c2158b35747be3e2ebf9daa0854c0de9b817272966730f69d1cf17fb3b"
+    },
+    {
+      "path": "test/Binary/fsbl.hex",
+      "bytes": 80961,
+      "sha256": "58e7bf9d4dbf88e5afbfc84b4b7a330953663fdea6689a9dc1878c1614ab3beb"
+    },
+    {
+      "path": "test/Binary/network-data.hex",
+      "bytes": 7479071,
+      "sha256": "5e34b1dce5e5c867ec25b187f8f2d0795302af9a8d6baa19df803734f1a7b109"
+    },
+    {
+      "path": "test/Binary/network_atonbuf.hex",
+      "bytes": 7479071,
+      "sha256": "5e34b1dce5e5c867ec25b187f8f2d0795302af9a8d6baa19df803734f1a7b109"
+    },
+    {
+      "path": "test/Drivers/BSP/BUS/bsp_bus.c",
+      "bytes": 1880,
+      "sha256": "6baf1c647fee17c11c20caa1aecab4f1551cb43878815b0bd8e75c673a6d7737"
+    },
+    {
+      "path": "test/Drivers/BSP/BUS/bsp_bus.h",
+      "bytes": 1133,
+      "sha256": "662bebe0d67e2cc9a05476775a9a192ddfe279ed007e001cce666f817232f216"
+    },
+    {
+      "path": "test/Drivers/BSP/LCD/bsp_lcd.c",
+      "bytes": 14214,
+      "sha256": "9967f7deeba46e7f7990ad7b0dba815c5714fdb3100ff02107c77b0145a05728"
+    },
+    {
+      "path": "test/Drivers/BSP/LCD/bsp_lcd.h",
+      "bytes": 1698,
+      "sha256": "2b6c90f880b39559d290a9eb11ec1312c13b4cb391edeebb60171296beef0943"
+    },
+    {
+      "path": "test/Drivers/BSP/LCD/lcd.h",
+      "bytes": 4052,
+      "sha256": "e641dd7dff68eede983750a447353e8b582c1c8806a21a87e9da90098ccb8af6"
+    },
+    {
+      "path": "test/FSBL/Core/Inc/extmem_manager.h",
+      "bytes": 1728,
+      "sha256": "7a8ae4608de53e6336eae6ed9d09fcb53d8679d9841b79f13954fcc8d4f311e5"
+    },
+    {
+      "path": "test/FSBL/Core/Inc/main.h",
+      "bytes": 2528,
+      "sha256": "2163e68f7976612a9f9027323678d624643683e8d472300b7e58e15305922405"
+    },
+    {
+      "path": "test/FSBL/Core/Inc/stm32_extmem_conf.h",
+      "bytes": 3032,
+      "sha256": "bccf28dc1b629d82e9617921f868b48cdd0a9224d31adbcf445690806078edfe"
+    },
+    {
+      "path": "test/FSBL/Core/Inc/stm32n6xx_hal_conf.h",
+      "bytes": 18709,
+      "sha256": "92180b5eda0cb32014ffc617a5023169c89e8c34e1bf128a3194322789d55e8c"
+    },
+    {
+      "path": "test/FSBL/Core/Inc/stm32n6xx_it.h",
+      "bytes": 1960,
+      "sha256": "cd4ae7c17ca4ec0fcaa9ab33e60a4be02bc2eb79a0b0c120fb7ab70d01bb8968"
+    },
+    {
+      "path": "test/FSBL/Core/Src/extmem_manager.c",
+      "bytes": 2008,
+      "sha256": "c98a06bf448856f58c5c4353ec4a9fc3f3f5840a490800b3d5ffa8742edcaf1d"
+    },
+    {
+      "path": "test/FSBL/Core/Src/main.c",
+      "bytes": 12316,
+      "sha256": "83761bb9d6d42d65ae7487810d83d63f73008452d54dbdc64a2cd3459ebeb014"
+    },
+    {
+      "path": "test/FSBL/Core/Src/stm32n6xx_hal_msp.c",
+      "bytes": 8677,
+      "sha256": "4beb2a6cd32be4432e68038e714262dd275bfa52bb1226c401686d07e9a2b8fe"
+    },
+    {
+      "path": "test/FSBL/Core/Src/stm32n6xx_it.c",
+      "bytes": 5711,
+      "sha256": "a1f8b5c86227b979e6aa7011b57b2b9b94b2021579e53d12900de9969b63d744"
+    },
+    {
+      "path": "test/FSBL/Core/Src/system_stm32n6xx_fsbl.c",
+      "bytes": 18028,
+      "sha256": "a0e5e2f13f935f334bedabff303f6dfa62cc09c32d4136af9eceea0684671d21"
+    }
+  ]
+}

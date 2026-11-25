@@ -1,0 +1,8 @@
+# Preserve the original competition snapshot byte for byte.
+test/** -text
+*.pdf binary
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
